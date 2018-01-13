@@ -1,0 +1,13 @@
+# eclipse
+.buildpath
+.project
+.settings
+
+# composer
+composer.lock
+vendor
+
+# selenium webdriver
+selenium.sh
+chromedriver.exe
+selenium-server-standalone.jar
