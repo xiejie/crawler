@@ -1,6 +1,6 @@
 <?php
 
-namespace Spider;
+namespace Crawler;
 
 use Facebook\WebDriver\Remote\RemoteWebDriver;
 use Facebook\WebDriver\Remote\DesiredCapabilities;

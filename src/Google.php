@@ -1,6 +1,6 @@
 <?php
 
-namespace Spider;
+namespace Crawler;
 
 use Facebook\WebDriver\WebDriverBy;
 use Facebook\WebDriver\WebDriverKeys;

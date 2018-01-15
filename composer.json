@@ -1,5 +1,5 @@
 {
-	"name" : "xiejie/spider",
+	"name" : "xiejie/crawler",
 	"license" : "MIT",
 	"require" : {
 		"facebook/webdriver" : "^1.4",
@@ -10,7 +10,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Spider\\" : "src/"
+			"Crawler\\" : "src/"
 		}
 	}
 }
