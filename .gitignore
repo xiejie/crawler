@@ -9,5 +9,6 @@ vendor
 
 # selenium webdriver
 selenium.sh
+chromedriver
 chromedriver.exe
 selenium-server-standalone.jar
